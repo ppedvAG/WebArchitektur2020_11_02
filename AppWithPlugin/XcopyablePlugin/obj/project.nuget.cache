@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7ry7ietvEM4dSr6XRJqbqCAmaOnF++GirbThDxdlRMGyF4nIA7Z0Ldc7nWPzvzz5DZY9yvdAB3HFMMKf5mF6g==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KW4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

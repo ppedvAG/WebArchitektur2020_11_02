@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BusinessLogicWithDependencyInjection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BusinessLogicWithDependencyInjection.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLogicWithDependencyInjection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLogicWithDependencyInjection.dll": {}
+        }
+      },
+      "BusinessLogicWithDependencyInjection.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLogicWithDependencyInjection.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLogicWithDependencyInjection.Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Entities.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entities.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessLogicWithDependencyInjection/1.0.0": {
+      "type": "project",
+      "path": "../AppWithDependencyInjection/BusinessLogicWithDependencyInjection.csproj",
+      "msbuildProject": "../AppWithDependencyInjection/BusinessLogicWithDependencyInjection.csproj"
+    },
+    "BusinessLogicWithDependencyInjection.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AppWithDependencyInjection.Contracts/BusinessLogicWithDependencyInjection.Contracts.csproj",
+      "msbuildProject": "../AppWithDependencyInjection.Contracts/BusinessLogicWithDependencyInjection.Contracts.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Entities.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Entities.Contracts/Entities.Contracts.csproj",
+      "msbuildProject": "../Entities.Contracts/Entities.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BusinessLogicWithDependencyInjection >= 1.0.0",
+      "BusinessLogicWithDependencyInjection.Contracts >= 1.0.0",
+      "Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\KW4\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\MyApp\\MyApp.csproj",
+      "projectName": "MyApp",
+      "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\MyApp\\MyApp.csproj",
+      "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+      "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\MyApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\AppWithDependencyInjection.Contracts\\BusinessLogicWithDependencyInjection.Contracts.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\AppWithDependencyInjection.Contracts\\BusinessLogicWithDependencyInjection.Contracts.csproj"
+            },
+            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\AppWithDependencyInjection\\BusinessLogicWithDependencyInjection.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\AppWithDependencyInjection\\BusinessLogicWithDependencyInjection.csproj"
+            },
+            "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebArchitektur2020_11_02\\Entities\\Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
