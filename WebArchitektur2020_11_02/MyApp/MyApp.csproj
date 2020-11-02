@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AppWithDependencyInjection.Contracts\BusinessLogicWithDependencyInjection.Contracts.csproj" />
+    <ProjectReference Include="..\AppWithDependencyInjection\BusinessLogicWithDependencyInjection.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
 </Project>

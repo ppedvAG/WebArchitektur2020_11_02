@@ -1,0 +1,32 @@
+Dientag:
+
+Design Patterns
+------------------------------------
+
+WebForms
+------------------------------------
+
+ASP.NET Core 
+
+- Übersicht über modularen Aufbau
+	-	MVC
+	-	Razor Page
+	-	WebAPI 
+
+- Entity Framework
+    - Database First
+	- Code First
+	- Code First (Reverse Engineering)
+
+-> DataLayer -> Repository programmieren 
+
+
+
+Mittwoch: 
+
+-	WebAPI + Swagger
+-	HateOAS + DataShaping
+-   Paging + Sorting etc
+-   gRPC 
+
+- Abschlussarbeit MVC oder Razor Page + WebAPI (ServiceLayer) + EF + Repository

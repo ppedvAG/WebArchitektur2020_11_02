@@ -11,21 +11,28 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part2_OpenClosedPrinciple",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part3_Liskov_Substitution_Principle_LSP", "Part3_Liskov_Substitution_Principle_LSP\Part3_Liskov_Substitution_Principle_LSP.csproj", "{39AC80B0-3755-4727-BF7C-21F472A3FC5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part4_Interface_Segregation_Principle_ISP", "Part4_Interface_Segregation_Principle_ISP\Part4_Interface_Segregation_Principle_ISP.csproj", "{080B8037-722C-4493-8BD3-B99928EF9BC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part4_Interface_Segregation_Principle_ISP", "Part4_Interface_Segregation_Principle_ISP\Part4_Interface_Segregation_Principle_ISP.csproj", "{080B8037-722C-4493-8BD3-B99928EF9BC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part5_DependencyInjections", "Part5_DependencyInjections\Part5_DependencyInjections.csproj", "{CC6A9E8A-A8E7-496E-9C61-54608D40927C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part5_DependencyInjections", "Part5_DependencyInjections\Part5_DependencyInjections.csproj", "{CC6A9E8A-A8E7-496E-9C61-54608D40927C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjections", "DependencyInjections", "{F0C042AC-19B0-40BC-AA7B-F86E1202DE1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicWithDependencyInjection", "AppWithDependencyInjection\BusinessLogicWithDependencyInjection.csproj", "{D0988B50-0F95-4533-A188-FA928CB6F651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicWithDependencyInjection", "AppWithDependencyInjection\BusinessLogicWithDependencyInjection.csproj", "{D0988B50-0F95-4533-A188-FA928CB6F651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicWithDependencyInjection.Contracts", "AppWithDependencyInjection.Contracts\BusinessLogicWithDependencyInjection.Contracts.csproj", "{9C3B65A7-C706-4EC7-BB7A-D5715F5A759A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicWithDependencyInjection.Contracts", "AppWithDependencyInjection.Contracts\BusinessLogicWithDependencyInjection.Contracts.csproj", "{9C3B65A7-C706-4EC7-BB7A-D5715F5A759A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{3B951A39-2CFF-4E38-8F9E-65DAE4D6B60A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{3B951A39-2CFF-4E38-8F9E-65DAE4D6B60A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities.Contracts", "Entities.Contracts\Entities.Contracts.csproj", "{41EE7543-34AB-41B1-8387-8FB5465B9404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities.Contracts", "Entities.Contracts\Entities.Contracts.csproj", "{41EE7543-34AB-41B1-8387-8FB5465B9404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{FDE87796-0E56-4866-A776-05BCF42438B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApp", "MyApp\MyApp.csproj", "{FDE87796-0E56-4866-A776-05BCF42438B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{A24EAAF8-E00A-41C0-AA67-E2E4D5947382}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B743F932-A8DD-4E81-9988-276DCB10DF3C}"
+	ProjectSection(SolutionItems) = preProject
+		Agenda.txt = Agenda.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
