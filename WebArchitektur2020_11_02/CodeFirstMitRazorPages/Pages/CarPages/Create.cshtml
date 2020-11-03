@@ -1,0 +1,60 @@
+﻿@page
+@model CodeFirstMitRazorPages.Pages.CarPages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Car</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Car.Brand" class="control-label"></label>
+                <input asp-for="Car.Brand" class="form-control" />
+                <span asp-validation-for="Car.Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car.Model" class="control-label"></label>
+                <input asp-for="Car.Model" class="form-control" />
+                <span asp-validation-for="Car.Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car.ConstructYear" class="control-label"></label>
+                <input asp-for="Car.ConstructYear" class="form-control" />
+                <span asp-validation-for="Car.ConstructYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car.Farbe" class="control-label"></label>
+                <input asp-for="Car.Farbe" class="form-control" />
+                <span asp-validation-for="Car.Farbe" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Car.MitRadio" /> @Html.DisplayNameFor(model => model.Car.MitRadio)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Car.IsCaprio" /> @Html.DisplayNameFor(model => model.Car.IsCaprio)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

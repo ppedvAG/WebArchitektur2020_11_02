@@ -1,0 +1,26 @@
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.exe
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.deps.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.runtimeconfig.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.runtimeconfig.dev.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.csprojAssemblyReference.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.AssemblyInfoInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.AssemblyInfo.cs
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.csproj.CoreCompileInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.genruntimeconfig.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.runtimeconfig.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\bin\Debug\netcoreapp3.1\AbstractFactoryMethodSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryMethodSample\obj\Debug\netcoreapp3.1\AbstractFactoryMethodSample.genruntimeconfig.cache

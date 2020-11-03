@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  nginx:
+    ports:
+      - "8080:80"
+      - "8081:443"
+  accounts-api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  identity-server:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - IDENTITY_SERVER_ORIGIN=https://wallet.local:8081
+      - RedirectUris=https://wallet.local:8081/callback
+      - PostLogoutRedirectUris=https://wallet.local:8081
+      - AllowedCorsOrigins=https://wallet.local:8081
+  wallet-spa:
+    build:
+      args:
+        ENV: Development

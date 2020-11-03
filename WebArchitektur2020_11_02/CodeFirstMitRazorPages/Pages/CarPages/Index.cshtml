@@ -1,0 +1,67 @@
+﻿@page
+@model CodeFirstMitRazorPages.Pages.CarPages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].ConstructYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].Farbe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].MitRadio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car[0].IsCaprio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Car) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ConstructYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Farbe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MitRadio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsCaprio)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

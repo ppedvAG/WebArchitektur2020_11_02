@@ -1,0 +1,13 @@
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.exe
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.deps.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.runtimeconfig.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.runtimeconfig.dev.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\bin\Debug\netcoreapp3.1\FactoryMethodSample.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.csprojAssemblyReference.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.AssemblyInfoInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.AssemblyInfo.cs
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.csproj.CoreCompileInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\FactoryMethodSample\obj\Debug\netcoreapp3.1\FactoryMethodSample.genruntimeconfig.cache

@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyApp/1.0.0": {
+        "dependencies": {
+          "BusinessLogicWithDependencyInjection": "1.0.0",
+          "BusinessLogicWithDependencyInjection.Contracts": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.dll": {}
+        }
+      },
+      "BusinessLogicWithDependencyInjection/1.0.0": {
+        "dependencies": {
+          "BusinessLogicWithDependencyInjection.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLogicWithDependencyInjection.dll": {}
+        }
+      },
+      "BusinessLogicWithDependencyInjection.Contracts/1.0.0": {
+        "dependencies": {
+          "Entities.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLogicWithDependencyInjection.Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "dependencies": {
+          "Entities.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "Entities.Contracts/1.0.0": {
+        "runtime": {
+          "Entities.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLogicWithDependencyInjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLogicWithDependencyInjection.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

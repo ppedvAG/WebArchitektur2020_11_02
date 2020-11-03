@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.runtimeconfig.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\bin\Debug\netcoreapp3.1\SingletonSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SingletonSample\obj\Debug\netcoreapp3.1\SingletonSample.genruntimeconfig.cache

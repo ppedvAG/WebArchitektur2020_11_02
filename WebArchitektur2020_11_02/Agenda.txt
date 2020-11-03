@@ -30,3 +30,9 @@ Mittwoch:
 -   gRPC 
 
 - Abschlussarbeit MVC oder Razor Page + WebAPI (ServiceLayer) + EF + Repository
+
+
+
+
+Link Collection
+https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/

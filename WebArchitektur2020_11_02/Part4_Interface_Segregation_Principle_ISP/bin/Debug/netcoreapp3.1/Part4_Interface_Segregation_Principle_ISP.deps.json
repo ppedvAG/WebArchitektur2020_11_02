@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Part4_Interface_Segregation_Principle_ISP/1.0.0": {
+        "runtime": {
+          "Part4_Interface_Segregation_Principle_ISP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part4_Interface_Segregation_Principle_ISP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

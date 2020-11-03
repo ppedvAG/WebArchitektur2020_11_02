@@ -1,0 +1,14 @@
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe.config
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojAssemblyReference.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.exe
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe.config
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\bin\Debug\FactoryPatternModified.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\SimpleFactoryPattern\obj\Debug\FactoryPatternModified.pdb

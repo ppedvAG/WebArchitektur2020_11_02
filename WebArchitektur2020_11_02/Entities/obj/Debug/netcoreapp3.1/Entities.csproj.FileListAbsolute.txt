@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\bin\Debug\netcoreapp3.1\Entities.Contracts.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\bin\Debug\netcoreapp3.1\Entities.Contracts.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

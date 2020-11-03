@@ -1,0 +1,7 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
