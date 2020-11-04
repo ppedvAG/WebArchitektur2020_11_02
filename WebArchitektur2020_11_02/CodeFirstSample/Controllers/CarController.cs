@@ -59,7 +59,8 @@ namespace CodeFirstSample.Controllers
             if (ModelState.IsValid)
             {
                 car.Id = Guid.NewGuid();
-                _context.Add(car);
+                _context.Add(car); //In Add wird folgende Codezeile ausgeführt -> _context.Entry<Car>(car).State = EntityState.Add;
+                //_context.Car.Add(car);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
@@ -98,7 +99,7 @@ namespace CodeFirstSample.Controllers
             {
                 try
                 {
-                    _context.Update(car);
+                    _context.Update(car);// Update ruft intern diese Zeile auf -> _context.Entry<Car>(car).State = EntityState.Modified;
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)

@@ -79,6 +79,7 @@ namespace EFRepository
 
             await _dbContext.Set<TEntity>().AddAsync(entity);
 
+            await _dbContext.SaveChangesAsync();
             return;
         }
 

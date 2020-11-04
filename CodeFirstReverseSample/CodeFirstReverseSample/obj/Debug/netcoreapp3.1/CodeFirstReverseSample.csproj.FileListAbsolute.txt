@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\bin\Debug\netcoreapp3.1\CodeFirstReverseSample.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\bin\Debug\netcoreapp3.1\CodeFirstReverseSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\bin\Debug\netcoreapp3.1\CodeFirstReverseSample.runtimeconfig.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\bin\Debug\netcoreapp3.1\CodeFirstReverseSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.genruntimeconfig.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\bin\Debug\netcoreapp3.1\CodeFirstReverseSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\CodeFirstReverseSample\obj\Debug\netcoreapp3.1\CodeFirstReverseSample.pdb

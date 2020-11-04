@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.exe
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.deps.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.runtimeconfig.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\bin\Debug\netcoreapp3.1\NullableDataTypesSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.dll
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.pdb
+C:\Aktueller Kurs\WebArchitektur2020_11_02\CodeFirstReverseSample\NullableDataTypesSample\obj\Debug\netcoreapp3.1\NullableDataTypesSample.genruntimeconfig.cache

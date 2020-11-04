@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=SURFACE-KW4;Initial Catalog=CarDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
