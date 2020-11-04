@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI_With_Scaffold</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI_With_Scaffold.Controllers.CarController.GetCar">
+            <summary>
+            Mithilfe von GetCar kann ich die komplette Car-Tabelle auslesen
+            </summary>
+            <returns>Alle Einträge von der Car-Tablle in Form von IEnumerable</returns>
+        </member>
+    </members>
+</doc>

@@ -10,7 +10,7 @@ using CodeFirstSample.Models;
 
 namespace CodeFirstSample.Controllers
 {
-    public class CarController : Controller
+    public class CarController : Controller //Controller als Basisklasse = MVC 
     {
         private readonly CodeFirstSampleContext _context;
 
@@ -56,13 +56,16 @@ namespace CodeFirstSample.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Brand,Model,ConstructYear,Farbe")] Car car)
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid) //arbeitet mit Data Annotations zusammen
             {
                 car.Id = Guid.NewGuid();
                 _context.Add(car); //In Add wird folgende Codezeile ausgeführt -> _context.Entry<Car>(car).State = EntityState.Add;
+                
                 //_context.Car.Add(car);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+
+               return  RedirectToAction(nameof(Index),"Home");
+                //return RedirectToAction(nameof(Index));
             }
             return View(car);
         }

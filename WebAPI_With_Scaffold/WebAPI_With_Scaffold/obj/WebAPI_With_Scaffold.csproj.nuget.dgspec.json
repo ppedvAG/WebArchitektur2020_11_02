@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj": {}
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj": {
+    "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj",
         "projectName": "WebAPI_With_Scaffold",
-        "projectPath": "C:\\Aktueller Kurs\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebArchitektur2020_11_02\\WebAPI_With_Scaffold\\WebAPI_With_Scaffold\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -70,6 +70,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [

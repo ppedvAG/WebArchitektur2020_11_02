@@ -1,0 +1,24 @@
+Architektur-Buch zum Thema (Domain Driven Design & CQRS)
+https://www.amazon.de/Microsoft-NET-Architecting-Applications-Enterprise-ebook/dp/B00N3YID8Q/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Microsoft+.NET+-+Architecting+Applications+for+the+Enterprise&qid=1604494820&s=digital-text&sr=1-1
+
+Microsoft Beispiele zu .NET Architektur
+https://github.com/dotnet-architecture
+
+https://github.com/atamocius/NAAE-v2-companion-code
+
+
+
+Authoren
+
+Allgemein Architektur -> Martin Fowler
+Weitere Authoren zu Architektur -> Eric Evans, Scott Miller, Vaughn Vernon
+
+Microsoft Authoren -> Julia Lernman & Dino Esposito
+
+
+
+WebAPI:
+Tools zum Testen einer WebAPI -> https://www.postman.com/ oder Telerik Fiddler (beide Freeware)
+
+
+

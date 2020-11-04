@@ -32,15 +32,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B743F932-A8DD-4E81-9988-276DCB10DF3C}"
 	ProjectSection(SolutionItems) = preProject
 		Agenda.txt = Agenda.txt
+		LinkCollection.txt = LinkCollection.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inversion of Control", "Inversion of Control", "{463A026A-7782-4B2E-854B-C5EBB1E43E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonSample", "SingletonSample\SingletonSample.csproj", "{87629E77-E12F-409E-B890-153298665F00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonSample", "SingletonSample\SingletonSample.csproj", "{87629E77-E12F-409E-B890-153298665F00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{9207D88B-B9F7-40FF-8ED8-B5F54D769344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{9207D88B-B9F7-40FF-8ED8-B5F54D769344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern_with_abstract_Class", "BuilderPattern_with_abstract_Class\BuilderPattern_with_abstract_Class.csproj", "{A309494C-5750-4007-A4F6-BF3E29AC9433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern_with_abstract_Class", "BuilderPattern_with_abstract_Class\BuilderPattern_with_abstract_Class.csproj", "{A309494C-5750-4007-A4F6-BF3E29AC9433}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDesignPatternVSFluentBuilder", "BuilderDesignPatternVSFluentBuilder\BuilderDesignPatternVSFluentBuilder.csproj", "{ECDE3068-15BB-4A84-854F-CF5EB1668493}"
 EndProject
@@ -60,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_Overview", "WebForm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsMVP", "..\winforms-mvp\WinFormsMVP\WinFormsMVP\WinFormsMVP.csproj", "{1B33C9F4-C37B-49C2-91D4-8A6919D466F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesOverview", "RazorPagesOverview\RazorPagesOverview.csproj", "{DF84346F-2892-45DA-AE36-3F550487B5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesOverview", "RazorPagesOverview\RazorPagesOverview.csproj", "{DF84346F-2892-45DA-AE36-3F550487B5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore_MVCOverview", "AspNetCore_MVCOverview\AspNetCore_MVCOverview.csproj", "{C1370774-ABB9-4614-BBBA-FF891C385BBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore_MVCOverview", "AspNetCore_MVCOverview\AspNetCore_MVCOverview.csproj", "{C1370774-ABB9-4614-BBBA-FF891C385BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Overview", "WebAPI_Overview\WebAPI_Overview.csproj", "{5B95CE7D-CA71-47BC-8A80-BD4C165C558D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI_Overview", "WebAPI_Overview\WebAPI_Overview.csproj", "{5B95CE7D-CA71-47BC-8A80-BD4C165C558D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Framework", "Entity Framework", "{45FEBE85-60A8-4968-8E95-1202326F111D}"
 EndProject
@@ -74,19 +75,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeFirst", "CodeFirst", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirstMitNet472", "DatabaseFirstMitNet472\DatabaseFirstMitNet472.csproj", "{1C2C8B5C-C89E-4DC3-83E0-90497A3B85E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstSample", "CodeFirstSample\CodeFirstSample.csproj", "{31D5E0E2-01FC-457C-8930-681E43AF88EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstSample", "CodeFirstSample\CodeFirstSample.csproj", "{31D5E0E2-01FC-457C-8930-681E43AF88EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst_Reverse", "CodeFirst_Reverse\CodeFirst_Reverse.csproj", "{C7BA1BFF-ABC4-4436-B13C-E53050B571BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirst_Reverse", "CodeFirst_Reverse\CodeFirst_Reverse.csproj", "{C7BA1BFF-ABC4-4436-B13C-E53050B571BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst_ReverseSample", "CodeFirst_ReverseSample\CodeFirst_ReverseSample.csproj", "{4FC59CF9-0A1C-45A5-A3DE-FA7183DB13C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirst_ReverseSample", "CodeFirst_ReverseSample\CodeFirst_ReverseSample.csproj", "{4FC59CF9-0A1C-45A5-A3DE-FA7183DB13C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstMitRazorPages", "CodeFirstMitRazorPages\CodeFirstMitRazorPages.csproj", "{ED969519-9D6E-4BA9-8E50-4C2D2CC6E537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstMitRazorPages", "CodeFirstMitRazorPages\CodeFirstMitRazorPages.csproj", "{ED969519-9D6E-4BA9-8E50-4C2D2CC6E537}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepositorySample", "RepositorySample", "{1C5417E8-6153-4997-994A-0BB42C5F7351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericGepositorySample", "GenericGepositorySample\GenericGepositorySample.csproj", "{0562C947-43AE-4044-B8E2-72BFADDED934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericGepositorySample", "GenericGepositorySample\GenericGepositorySample.csproj", "{0562C947-43AE-4044-B8E2-72BFADDED934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFRepository", "EFRepository\EFRepository.csproj", "{850C6A53-D7C2-4D2B-BF4F-7C7EDAABB54F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFRepository", "EFRepository\EFRepository.csproj", "{850C6A53-D7C2-4D2B-BF4F-7C7EDAABB54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

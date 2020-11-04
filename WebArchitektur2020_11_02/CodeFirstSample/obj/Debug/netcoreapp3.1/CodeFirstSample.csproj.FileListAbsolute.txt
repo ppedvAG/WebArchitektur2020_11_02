@@ -37,7 +37,6 @@ C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSam
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\obj\Debug\netcoreapp3.1\CodeFirstSample.csprojAssemblyReference.cache
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\obj\Debug\netcoreapp3.1\CodeFirstSample.csproj.CopyComplete
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Aktueller Kurs\WebArchitektur2020_11_02\WebArchitektur2020_11_02\CodeFirstSample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll

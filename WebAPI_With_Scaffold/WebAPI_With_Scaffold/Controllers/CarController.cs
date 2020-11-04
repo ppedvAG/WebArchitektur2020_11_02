@@ -12,7 +12,7 @@ namespace WebAPI_With_Scaffold.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CarController : ControllerBase
+    public class CarController : ControllerBase //<-ControllerBase steht für WebAPI
     {
         private readonly CarDBV2Context _context;
 
@@ -22,7 +22,13 @@ namespace WebAPI_With_Scaffold.Controllers
         }
 
         // GET: api/Car
-        [HttpGet]
+
+
+        /// <summary>
+        /// Mithilfe von GetCar kann ich die komplette Car-Tabelle auslesen
+        /// </summary>
+        /// <returns>Alle Einträge von der Car-Tablle in Form von IEnumerable</returns>
+        [HttpGet] // <- Das ist ein HTTP-Verb
         public async Task<ActionResult<IEnumerable<Car>>> GetCar()
         {
             return await _context.Car.ToListAsync();
