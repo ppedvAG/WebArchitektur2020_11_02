@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericGepositorySample", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFRepository", "EFRepository\EFRepository.csproj", "{1A54247A-E745-4B24-813F-AC290AE5EF8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerArchitecture.DataLayer", "LayerArchitecture.DataLayer\LayerArchitecture.DataLayer.csproj", "{FB8DDECD-E3F9-4E59-A85B-DC41676C628B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerArchitecture.Domain", "LayerArchitecture.Domain\LayerArchitecture.Domain.csproj", "{2732B982-26E5-4C3F-8E7B-FD8897F192E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1A54247A-E745-4B24-813F-AC290AE5EF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A54247A-E745-4B24-813F-AC290AE5EF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A54247A-E745-4B24-813F-AC290AE5EF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8DDECD-E3F9-4E59-A85B-DC41676C628B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8DDECD-E3F9-4E59-A85B-DC41676C628B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8DDECD-E3F9-4E59-A85B-DC41676C628B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8DDECD-E3F9-4E59-A85B-DC41676C628B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2732B982-26E5-4C3F-8E7B-FD8897F192E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2732B982-26E5-4C3F-8E7B-FD8897F192E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2732B982-26E5-4C3F-8E7B-FD8897F192E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2732B982-26E5-4C3F-8E7B-FD8897F192E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
