@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LayerArchitecture.DataLayer.Repositories;
+using LayerArchitecture.DataLayer.Repositories.Contracts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +28,9 @@ namespace LayerArchitecture.ServiceLayer
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+
+            services.AddScoped(typeof(ICarRepository), typeof(CarRepository));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -12,6 +12,6 @@ namespace LayerArchitecture.DataLayer.Repositories.Contracts
         //Hier kannst weitere spezifische Methoden zu deiner Car-Tabelle reinschreiben
         //z.b gebe mir alle Autos zurück die ein Radio haben und vor 1980 gebaut wurden
 
-        
+        Car GetTheBestCar();
     }
 }

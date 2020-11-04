@@ -33,6 +33,7 @@ namespace EFRepository
                 throw new Exception("instance is null");
 
             _dbContext.Set<TEntity>().Remove(toRemove);
+            await _dbContext.SaveChangesAsync();
         }
 
         public async Task<IList<TEntity>> FindByCondition(Expression<Func<TEntity, bool>> predicate)
@@ -91,11 +92,11 @@ namespace EFRepository
 
         public async Task Update(TKey Id, TEntity modifiedEntity)
         {
-            TEntity currentEntity = await GetById(Id);
 
-            currentEntity = modifiedEntity;
+            _dbContext.Set<TEntity>().Attach(modifiedEntity);
+            _dbContext.Set<TEntity>().Update(modifiedEntity);
 
-            _dbContext.Set<TEntity>().Update(currentEntity);
+            await _dbContext.SaveChangesAsync();
         }
     }
 }

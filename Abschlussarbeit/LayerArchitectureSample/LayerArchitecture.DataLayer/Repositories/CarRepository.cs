@@ -17,5 +17,10 @@ namespace LayerArchitecture.DataLayer.Repositories
         {
 
         }
+
+        public Car GetTheBestCar()
+        {
+            return new Car { Id = Guid.NewGuid(), Brand = "Daimler", ConstructYear = DateTime.Now.ToString(), Model = "Batmobil", Farbe = "black", IsCaprio = true, MitRadio = true };
+        }
     }
 }
