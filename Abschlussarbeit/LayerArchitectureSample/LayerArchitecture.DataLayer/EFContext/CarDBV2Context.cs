@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
 
-namespace WebAPI_With_Scaffold.Data
+namespace LayerArchitecture.DataLayer.EFContext
 {
     public partial class CarDBV2Context : DbContext
     {
